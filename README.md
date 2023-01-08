@@ -1,2 +1,3 @@
-# sse-go
-server side events in go, alt to web-sockets
+# Server Sent Events in Go
+
+Implemeting Push Notifications with Server Sent Events in Go and Svelte
